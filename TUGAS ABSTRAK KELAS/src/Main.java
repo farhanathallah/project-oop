@@ -8,8 +8,7 @@ public class Main {
       customer1.namaMotor = "Honda";
       customer1.jenisMotor = "Vario160";
       customer1.harga = "Rp 5.000.000";
-     
- 
+      
       System.out.println("nama customer : "   + customer1.namaCustomer);
       System.out.println("nama motor : "   + customer1.namaMotor);
       System.out.println("jenis motor : "   + customer1.jenisMotor);
